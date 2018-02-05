@@ -6,16 +6,20 @@ Setup time is approximately 5-10 minutes depending on your proficiency with sket
 
 ## 1. Prerequisites
 
-Install the following sketch plugins:
+### Set files as library
+1. After downloading the repo, make sure to open sketch with a new document
+2. Go to Sketch > Preferences and click on "Add Library..."
+3. Select all the files from this repo and add them as a library.
+
+### Install the following sketch plugins
 1. [Shared text styles](https://github.com/nilshoenson/shared-text-styles)
 2. [Shared sketch palettes](https://github.com/andrewfiorillo/sketch-palettes)
 
 ### Importing your theme colors
-
 1. Mineral comes with an array of supported color themes to select for your product. [Check this readme to import your theme colors](https://github.com/mineral-ui/design-assets/tree/master/color-palettes)
 2. Once you've imported your theme palettes you may move on to the next section of setup.
 
-## 2. Getting started with your theme
+## 2. Setting up your theme
 
 *If your application color theme is MineralUI-blue, you may skip this step and continue to "Creating a sketch file"*
 
