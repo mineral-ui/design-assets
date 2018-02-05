@@ -10,6 +10,11 @@ Install the following sketch plugins:
 1. [Shared text styles](https://github.com/nilshoenson/shared-text-styles)
 2. [Shared sketch palettes](https://github.com/andrewfiorillo/sketch-palettes)
 
+### Importing your theme colors
+
+1. Mineral comes with an array of supported color themes to select for your product. [Check this readme to import your theme colors](https://github.com/mineral-ui/design-assets/tree/master/color-palettes)
+2. Once you've imported your theme palettes you may move on to the next section of setup.
+
 ## Getting started with your theme
 
 1. After downloading the Mineral UI repository, open the "Mineral theme UI settings" sketch file.
