@@ -52,7 +52,3 @@ Setup time is approximately 5-10 minutes depending on your proficiency with sket
 6. Open Mineral UI components and repeat steps 1-4.
 
 Now you may create your own file and start using these files as a library.
-
-# Troubleshooting
-
-1. 
