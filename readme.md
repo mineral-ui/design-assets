@@ -21,7 +21,7 @@ Setup time is approximately 5-10 minutes depending on your proficiency with sket
 
 ## 2. Setting up your theme
 
-*If your application color theme is MineralUI-blue, the following steps are unecessary and you may begin designing!"*
+*If your application color theme is MineralUI-blue, the following steps are unecessary and you may skip to section 3!"*
 
 1. After you've downloaded the Mineral UI repository and imported your theme palettes, open the "Mineral theme UI settings" sketch file.
 2. Open the "🎨 Color" page.
@@ -52,3 +52,8 @@ Setup time is approximately 5-10 minutes depending on your proficiency with sket
 6. Open Mineral UI components and repeat steps 1-4.
 
 Now you may create your own file and start using these files as a library.
+
+## 3. Designing using the symbols
+
+1. The symbols are pretty straight forward and organized in a way to allow you to quickly find related symbols.
+2. Any symbols filed under "utilities" can be ignored as these are partial building blocks for the symbols you are actually using.
