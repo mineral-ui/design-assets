@@ -4,7 +4,7 @@ This is a testing ground for distribution of Sketch files, and design metadata.
 
 Setup time is approximately 5-10 minutes depending on your proficiency with sketch.
 
-## Prerequisites
+## 1. Prerequisites
 
 Install the following sketch plugins:
 1. [Shared text styles](https://github.com/nilshoenson/shared-text-styles)
@@ -15,17 +15,21 @@ Install the following sketch plugins:
 1. Mineral comes with an array of supported color themes to select for your product. [Check this readme to import your theme colors](https://github.com/mineral-ui/design-assets/tree/master/color-palettes)
 2. Once you've imported your theme palettes you may move on to the next section of setup.
 
-## Getting started with your theme
+## 2. Getting started with your theme
 
-1. After downloading the Mineral UI repository, open the "Mineral theme UI settings" sketch file.
-2. Change the color palette on the "🎨 Color" page to your selected theme (there is a palette of each theme on the right for your reference in this page.)
-3. Once you've changed your ten colors visit the "✏️ Text styles" page and edit the "theme styles" text layers with your theme color (grade 60).
-    * Make sure to do each individually, and as you update them, press the sync symbol for the text styles.
-    ![text sync](http://url/to/img.png)
+*If your application color theme is MineralUI-blue, you may skip this step and continue to "Creating a sketch file"*
 
-4. After you've updated all three of your text styles and synced them, go to Plugins > Shared Text Styles > Export text styles
-5. Save the export with any name of your preference.
-6. Go ahead save and close this file.
+1. After you've downloaded the Mineral UI repository and imported your theme palettes, open the "Mineral theme UI settings" sketch file.
+2. Open the "🎨 Color" page.
+3. Where prompted to replace the color swatches with your theme colors you may replace each color with the theme you selected in the previous section.
+    * You may use your imported palette to quickly replace the 10 colors on this page.
+
+4. After you've replaced these ten colors, view the "✏️ Text styles" page.
+5. In the right column of text, replace the color for each of text layer with the color base **60** of your theme. (do each individually)
+6. As you update each of these layers don't forget to sync the text styles.
+7. After you've updated all three of your text styles and synced them, go to Plugins > Shared Text Styles > Export text styles
+5. Save the export file with name "mytheme-text-styles"
+6. Save and close this sketch file.
 
 ### Icons
 
