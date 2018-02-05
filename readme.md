@@ -21,7 +21,7 @@ Setup time is approximately 5-10 minutes depending on your proficiency with sket
 
 ## 2. Setting up your theme
 
-*If your application color theme is MineralUI-blue, you may skip this step and continue to "Creating a sketch file"*
+*If your application color theme is MineralUI-blue, the following steps are unecessary and you may begin designing!"*
 
 1. After you've downloaded the Mineral UI repository and imported your theme palettes, open the "Mineral theme UI settings" sketch file.
 2. Open the "🎨 Color" page.
