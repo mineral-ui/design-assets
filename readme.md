@@ -9,7 +9,7 @@ Setup time is approximately 5-10 minutes depending on your proficiency with sket
 ### Set files as library
 1. After downloading the repo, make sure to open sketch with a new document
 2. Go to Sketch > Preferences and click on "Add Library..."
-3. Select all the files from this repo and add them as a library.
+3. Select all the files from the /library/ folder and add them to your symbol library.
 
 ### Install the following sketch plugins
 1. [Shared text styles](https://github.com/nilshoenson/shared-text-styles)
