@@ -74,4 +74,18 @@ Now you may create your own file and start using these files as a library.
 
 **Note: Any symbols under "partial" is for construction purposes only. Symbols to build UI will not be located in these menus.**
 
+## 3. Updating repository
+
+### Updating your library
+
+1. Commit any changes you have made to your library using the command `git commit -a -m "notes here"` Where you can put any notes you would like.
+2. use command `git pull -X theirs` this way it will auto merge any conflicts with the latest master. If you don't do this merge conflicts may arise that are unfixable.
+
+
+### Troubleshooting
+
+If you do end up with merge conflicts, the best option to fix is using command `git reset --hard` and afterwards doing `git pull -X theirs` to get the latest libraries.
+
+If your library isn't matching your selected theme after an update - you may need to update the theme library files again. (*Note, updating will not break symbol links in your design files*)
+
 Music in videos by: www.bensound.com
