@@ -57,3 +57,6 @@ Now you may create your own file and start using these files as a library.
 
 1. The symbols are pretty straight forward and organized in a way to allow you to quickly find related symbols.
 2. Any symbols filed under "utilities" can be ignored as these are partial building blocks for the symbols you are actually using.
+
+
+Music in videos by: www.bensound.com
