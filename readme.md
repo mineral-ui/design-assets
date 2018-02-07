@@ -72,6 +72,6 @@ Setup time is approximately 5-10 minutes depending on your proficiency with sket
 
 Now you may create your own file and start using these files as a library.
 
-**Note: Any symbols under "partial" is for construction purposes only. Symbols to build UI will not be located in these menus.
+**Note: Any symbols under "partial" is for construction purposes only. Symbols to build UI will not be located in these menus.**
 
 Music in videos by: www.bensound.com
