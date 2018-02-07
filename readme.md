@@ -27,19 +27,37 @@ Setup time is approximately 5-10 minutes depending on your proficiency with sket
 
 1. After you've downloaded the Mineral UI repository and imported your theme palettes, open the "Mineral theme UI settings" sketch file.
 2. Open the "🎨 Color" page.
+
+![page list](https://lh5.googleusercontent.com/8ICFIvZmhfM6F3xLGMvN83rdvTfzdVR0y3UEe5atLN4hUxmLdFg2c2I1hrNuR-_QJhVyw3yi6ifxuXkLG04V=w1959-h1090)
+
 3. Where prompted to replace the color swatches with your theme colors you may replace each color with the theme you selected in the previous section.
     * You may use your imported palette to quickly replace the 10 colors on this page.
 
+![Pallete list](https://lh4.googleusercontent.com/2rz_3q7__ZeAjUR_uBNy0eP0D1JRqtsSEkRFEknxJm9TAfb-vL9jraMFGBdS4Hqkhg4QjGUv1aWYwzImX6x8=w1959-h1090-rw)
+
 4. After you've replaced these ten colors, view the "✏️ Text styles" page.
 5. In the right column of text, replace the color for each of text layer with the color base **60** of your theme. (do each individually)
+
+![text layers](https://lh3.googleusercontent.com/q-B3AnGUCwKCDRnrAH-ayFrl22L8p9o7FwCt19aNJcgE63y0z7_VhTQwcwU72N_LY_xXAf_BDNmHhlEsnJ6F=w1959-h1090)
+
 6. As you update each of these layers don't forget to sync the text styles.
+
+![text layer sync](https://lh5.googleusercontent.com/8toA0edOoakfQb_16Bx2er2s4pQLiAPCTeR7U5Sh0QOJ8KlBni5l0_ZPo83FiQZpteUMrAQRs8I5n9rGckKt=w1959-h1090)
+
 7. After you've updated all three of your text styles and synced them, go to Plugins > Shared Text Styles > Export text styles
-5. Save the export file with name "mytheme-text-styles"
+
+![Export text styles](https://lh3.googleusercontent.com/d82U_TrpUcB4QQpO0QYnPyA1VJdAdmPa0sLOoRonSAdhOEuTTXspkMlpmFD-ueiRStjuEXT4N63HQzE7zHfQ=w1959-h1090)
+
+5. Save the export file with name a name of your choice
 6. Save and close this sketch file.
 
 ### Icons
 
-1. Now open the "Mineral UI icons" sketch file, in the top right corner it should have a button stating "Updates available." 2. Click this button and click update on the verification window.
+1. Now open the "Mineral UI icons" sketch file, in the top right corner it should have a button stating "Updates available."
+
+![Library updates available](https://lh4.googleusercontent.com/Oblcdsm4xQqlvc0mEUKb_8NrsAa-wzGHtpEpnC1-hsiKe1Tl7onUjh1Flvbo-et0rPk4upRziTCq2PfPkPui=w1959-h1090)
+
+2. Click this button and click update on the verification window.
 3. Now all of your icons should be matching your theme color.
 4. You may now save and close this file.
 
