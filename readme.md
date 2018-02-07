@@ -4,6 +4,8 @@ This is a testing ground for distribution of Sketch files, and design metadata.
 
 Setup time is approximately 5-10 minutes depending on your proficiency with sketch.
 
+[![Watch the video](https://lh4.googleusercontent.com/SxnUYt5_ETSl6kQaARA6vhhW0KnHWWarrFSYNOBU1KSH5TP6Zr1c7COtErlfP4dfPqDcNXuFqucY5c1OjHkn=w1959-h1090)](https://drive.google.com/file/d/19Amm3kOn8lNWwAhyu9sTZBZccuZb3kf0/preview)
+
 ## 1. Prerequisites
 
 ### Set files as library
