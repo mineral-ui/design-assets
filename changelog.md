@@ -11,6 +11,7 @@ These changes will appear in the next release of the symbol library. We typicall
 ### Changes
 1. Updated avatar background
 2. Added border to tooltips (gray_100)
+3. Removed colored tooltip variants
 
 ### Added
 None yet
