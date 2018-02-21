@@ -14,6 +14,7 @@ These changes will appear in the next release of the symbol library. We typicall
 3. Removed colored tooltip variants
 4. Fixed responsive issue with popover with input field
 5. Fixed icon size for large button with dropdown.
+6. Reorganized icon symbols
 
 ### Added
 None yet
