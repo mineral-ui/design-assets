@@ -2,8 +2,6 @@
 
 This is a testing ground for distribution of Sketch files, and design metadata.
 
-Setup time is approximately 5-10 minutes depending on your proficiency with sketch.
-
 [![Watch the video](https://raw.githubusercontent.com/mineral-ui/design-assets/master/readme-images/tutorial-coverphoto.gif)](https://www.youtube.com/watch?v=_DQj2wqi09M)
 
 ## 1. Prerequisites
