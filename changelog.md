@@ -9,7 +9,7 @@ These changes will appear in the next release of the symbol library.
 
 ## Previous and current version release notes
 
-**Version 2** - Released: March 23, 2018
+### **Version 2** - Released: March 23, 2018
 
 1. Updated avatar background
 2. Added border to tooltips (gray_100)
@@ -22,6 +22,6 @@ These changes will appear in the next release of the symbol library.
 9. Icons that were the same but with different colors have been consolidated into one, colors can now be changed via overrides (availability depends on parent symbol)
 10. Tag symbol designs have been Updated
 
-**Version 1** - Released: Febuary 7, 2018
+### **Version 1** - Released: Febuary 7, 2018
 
 1. Released with form symbols and icons
