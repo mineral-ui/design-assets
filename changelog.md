@@ -2,7 +2,7 @@
 
 ## Current Version
 
-**First release, version 1** - released: Febuary 7, 2017
+**First release, version 1** - released: Febuary 7, 2018
 
 ## Upcoming Changes & Additions
 
