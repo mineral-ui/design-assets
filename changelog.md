@@ -16,6 +16,8 @@ These changes will appear in the next release of the symbol library. We typicall
 5. Fixed icon size for large button with dropdown.
 6. Reorganized icon symbols
 7. Updated color palettes for better accessibility
+8. Added over 100 hand crafted Mineral UI icons
+9. Added table style guide templates
 
 ### Added
 None yet
