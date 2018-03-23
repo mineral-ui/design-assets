@@ -1,14 +1,16 @@
 # Release log
 
-## Current Version
+## Upcoming Features & Changes
 
-**First release, version 1** - released: Febuary 7, 2018
+These changes will appear in the next release of the symbol library.
 
-## Upcoming Changes & Additions
+1. Table style guide templates
+2. Icon usage guide
 
-These changes will appear in the next release of the symbol library. We typically release the first week of every month.
+## Previous and current version release notes
 
-### Changes
+**Version 2** - Released: March 23, 2018
+
 1. Updated avatar background
 2. Added border to tooltips (gray_100)
 3. Removed colored tooltip variants
@@ -17,7 +19,9 @@ These changes will appear in the next release of the symbol library. We typicall
 6. Reorganized icon symbols
 7. Updated color palettes for better accessibility
 8. Added over 100 hand crafted Mineral UI icons
-9. Added table style guide templates
+9. Icons that were the same but with different colors have been consolidated into one, colors can now be changed via overrides (availability depends on parent symbol)
+10. Tag symbol designs have been Updated
 
-### Added
-None yet
+**Version 1** - Released: Febuary 7, 2018
+
+1. Released with form symbols and icons
