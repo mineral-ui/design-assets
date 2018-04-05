@@ -6,6 +6,7 @@ These changes will appear in the next release of the symbol library.
 
 1. Table style guide templates
 2. Icon usage guide
+3. Update avatar symbols to allow for color changes when in lists.
 
 ## Previous and current version release notes
 
