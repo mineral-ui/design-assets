@@ -11,6 +11,12 @@ This is a testing ground for distribution of Sketch files, and design metadata.
 2. Go to Sketch > Preferences and click on "Add Library..."
 3. Select all the files from the /library/ folder and add them to your symbol library.
 
+### Get the Fonts
+1. Go to [Google Fonts](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i) and download __Open Sans__.
+2. Install Open Sans by unzipping the download and double-clicking each font file then clicking "Install" in the preview area.
+
+*Note to Adobe Typekit users: Do __Not__ use the version of Open Sans offered by Typekit. It has a different font ID, and will break the font usage in the Sketch file*
+
 ### Install the following sketch plugins
 1. [Shared text styles](https://github.com/nilshoenson/shared-text-styles)
 2. [Shared sketch palettes](https://github.com/andrewfiorillo/sketch-palettes)
